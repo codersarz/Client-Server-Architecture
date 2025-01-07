@@ -7,12 +7,6 @@
 #include <pthread.h>
 #include <errno.h>  
 
-/*
-pranav
-nitish
-lokesh
-ashesh
-varshith*/ 
 
 #define CONNECT_CHANNEL_ID 100
 #define COMMUNICATION_CHANNEL_ID 200
